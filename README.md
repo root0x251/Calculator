@@ -1,3 +1,3 @@
 # Calculator
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CDUWXgk6tgE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+![ezgif com-video-to-gif](https://cloud.githubusercontent.com/assets/10919074/26196150/b4c31ae6-3bc6-11e7-97ae-0c1a2a6835c5.gif)
